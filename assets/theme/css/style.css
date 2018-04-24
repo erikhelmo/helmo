@@ -371,8 +371,7 @@ nav .mbr-section-btn {
     -webkit-transform: translateY(0px); } }
 @media (max-width: 500px) {
   .mbr-arrow-up {
-    left: 50%;
-    right: auto;
+    right: 2%;
     transform: translateX(-50%) rotate(180deg);
     -webkit-transform: translateX(-50%) rotate(180deg); } }
 /*Gradients animation*/
